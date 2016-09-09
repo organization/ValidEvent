@@ -1,0 +1,6 @@
+name: ValidEvent
+authors: [ZINGDING, HS-Team]
+version: "v1.0.0-Release"
+main: zingding.ValidEvent.ValidEvent
+api: [1.0.0]
+website: "https://github.com/HS-Team/ValidEvent.git"
